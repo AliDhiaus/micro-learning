@@ -15,8 +15,8 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Micro Learning",
   icons: {
-    icon: "/images/adsmcl.png",
-    apple: "/images/adsmcl.png",
+    icon: "adsmcl.ico",
+    apple: "adsmcl.ico",
   },
   keywords: [
     "Micro Learning",
