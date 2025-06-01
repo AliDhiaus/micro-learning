@@ -2,7 +2,7 @@
     "name": "Micro Learning App",
     "short_name": "MLApp",
     "description": "A modern micro-learning platform developed by AliDSX.",
-    "start_url": "/index.html",
+    "start_url": "/",
     "display": "standalone",
     "background_color": "#0f172a",
     "theme_color": "#1e293b",
