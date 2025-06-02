@@ -16,6 +16,7 @@ export const metadata: Metadata = {
   title: "Micro Learning",
   icons: {
     icon: "/adsmcl.ico",
+    shortcut: "/adsmcl.ico",
     apple: "/adsmcl.ico",
   },
   keywords: [
