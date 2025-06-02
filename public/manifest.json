@@ -1,6 +1,8 @@
 {
     "name": "Micro Learning App",
-    "short_name": "MLApp",
+    "short_name": "Micro-learning",
+    "version": "1.0.0",
+    "lang": "en-US",
     "description": "A modern micro-learning platform developed by AliDSX.",
     "start_url": "/",
     "display": "standalone",
